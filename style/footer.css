@@ -123,11 +123,10 @@
 
 .third-content > ul > p:hover{
     cursor: pointer;
-    
     opacity: 0.3;
 }
 
-.footer-upper > h5 {
+h5 {
     font-weight: bold;
     color: var(--color-pallete5);
     font-family: Arial;
