@@ -1,0 +1,27 @@
+.image-area-1,
+.image-area-2,
+.image-area-3 {
+    /* background-color:    ; */
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    height: 50px;
+    width: auto;
+}
+
+.image-area-1 {
+    margin-top: 2px;
+    z-index: 0;
+}
+
+.image-area-2 {
+    margin-left: 19px;
+    z-index: -1;
+}
+
+.image-1,
+.image-2 {
+    height: 100px;
+    width: auto;
+}
+
